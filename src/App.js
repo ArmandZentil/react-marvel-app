@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './App.scss';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import FilterBar from './components/FilterBar';
+
 
 class App extends Component {
   render() {
