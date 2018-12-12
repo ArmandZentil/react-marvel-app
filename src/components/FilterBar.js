@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 // import './FilterBar.scss';
 
+
+
+
+
+
 class FilterBar extends Component {
 	render(){
 		return (
