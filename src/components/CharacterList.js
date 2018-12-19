@@ -19,7 +19,7 @@ class CharacterList extends Component {
     try {
       const charactersData = await axios.get("https://gateway.marvel.com/v1/public/characters", {
         params: {
-          apikey: "6a9e903790k74f30d48", // Use your API key here
+          apikey: "df05716b928b983053476deadccbdb37", // Use your API key here
           limit: 50
         }
       });
